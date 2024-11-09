@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cleanupcenter/static/css/main.6c147fb8.css",
+    "main.css": "/cleanupcenter/static/css/main.f76bc382.css",
     "main.js": "/cleanupcenter/static/js/main.eb47503a.js",
     "static/js/220.ed0935d1.chunk.js": "/cleanupcenter/static/js/220.ed0935d1.chunk.js",
     "static/js/453.7d5bf8e7.chunk.js": "/cleanupcenter/static/js/453.7d5bf8e7.chunk.js",
     "static/media/cleanupcentr.png": "/cleanupcenter/static/media/cleanupcentr.7be7d8ac99fe21b2889b.png",
     "index.html": "/cleanupcenter/index.html",
-    "main.6c147fb8.css.map": "/cleanupcenter/static/css/main.6c147fb8.css.map",
+    "main.f76bc382.css.map": "/cleanupcenter/static/css/main.f76bc382.css.map",
     "main.eb47503a.js.map": "/cleanupcenter/static/js/main.eb47503a.js.map",
     "220.ed0935d1.chunk.js.map": "/cleanupcenter/static/js/220.ed0935d1.chunk.js.map",
     "453.7d5bf8e7.chunk.js.map": "/cleanupcenter/static/js/453.7d5bf8e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c147fb8.css",
+    "static/css/main.f76bc382.css",
     "static/js/main.eb47503a.js"
   ]
 }
