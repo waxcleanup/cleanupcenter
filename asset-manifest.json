@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cleanupcenter/static/css/main.fbdf498f.css",
-    "main.js": "/cleanupcenter/static/js/main.2bd31c15.js",
+    "main.css": "/cleanupcenter/static/css/main.458eb688.css",
+    "main.js": "/cleanupcenter/static/js/main.902b7939.js",
     "static/js/220.ed0935d1.chunk.js": "/cleanupcenter/static/js/220.ed0935d1.chunk.js",
     "static/js/453.7d5bf8e7.chunk.js": "/cleanupcenter/static/js/453.7d5bf8e7.chunk.js",
     "static/media/cleanupcentr.png": "/cleanupcenter/static/media/cleanupcentr.7be7d8ac99fe21b2889b.png",
     "index.html": "/cleanupcenter/index.html",
-    "main.fbdf498f.css.map": "/cleanupcenter/static/css/main.fbdf498f.css.map",
-    "main.2bd31c15.js.map": "/cleanupcenter/static/js/main.2bd31c15.js.map",
+    "main.458eb688.css.map": "/cleanupcenter/static/css/main.458eb688.css.map",
+    "main.902b7939.js.map": "/cleanupcenter/static/js/main.902b7939.js.map",
     "220.ed0935d1.chunk.js.map": "/cleanupcenter/static/js/220.ed0935d1.chunk.js.map",
     "453.7d5bf8e7.chunk.js.map": "/cleanupcenter/static/js/453.7d5bf8e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbdf498f.css",
-    "static/js/main.2bd31c15.js"
+    "static/css/main.458eb688.css",
+    "static/js/main.902b7939.js"
   ]
 }
